@@ -1,3 +1,5 @@
+package hw_8;
+
 public class Rectangle {
     int a , b;
 

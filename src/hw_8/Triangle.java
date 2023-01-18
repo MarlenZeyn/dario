@@ -1,3 +1,5 @@
+package hw_8;
+
 // 2)
 public class Triangle {
 
