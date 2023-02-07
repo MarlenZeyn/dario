@@ -2,8 +2,13 @@ package hw_10;
 
 import java.util.*;
 
+
 public class Main {
     //1)
+
+
+
+
 
     enum Colors {
         BLUE,
@@ -21,7 +26,11 @@ public class Main {
     }
 
 
+
     public static void main(String[] mara) {
+
+
+
 
         System.out.println("----------------");
         System.out.println("1)");
@@ -35,6 +44,8 @@ public class Main {
 
 
         }
+
+
 //        static void isHoliday(weekDay day){
 //            if(day == weekDay.SATURDAY){
 //                System.out.println("Saturday holiday");
